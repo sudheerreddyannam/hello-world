@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p style="background-color:Tomato;">Please fill in this form to create an account.</p>
+    <p style="background-color:#36454F;">Please fill in this form to create an account.</p>
     <hr>
 
     <label for="phone"><b>Phone</b></label>
