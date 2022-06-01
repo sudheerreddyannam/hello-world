@@ -1,15 +1,14 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Please fill in this form to create an account.</p>
-    <p style="background-color:Tomato;">Lorem ipsum...</p>
+    <p style="background-color:Tomato;">Please fill in this form to create an account.</p>
     <hr>
 
     <label for="phone"><b>Phone</b></label>
     <input type="text" placeholder="Enter Phone" name="Phone" id="phone" required>
 
-    <label for="nameaa"><b>Nameaa</b></label>
-    <input type="text" placeholder="Enter Nameaa" name="nameaa" id="nameaa" required>
+    <label for="name"><b>Nameaa</b></label>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
