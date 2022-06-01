@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-     <label for="phone"><b>Phone</b></label>
+    <label for="phone"><b>Phone</b></label>
     <input type="text" placeholder="Enter Phone" name="Phone" id="phone" required>
 
     <label for="name"><b>Name</b></label>
@@ -18,6 +18,10 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+
+    <label for="last name"><b>Last Name</b></label>
+    <input type="text" placeholder="Enter Last Name" name="last name" id="last name" required>
+
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
