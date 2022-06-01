@@ -2,6 +2,7 @@
   <div class="container">
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
+    <p style="background-color:Tomato;">Lorem ipsum...</p>
     <hr>
 
     <label for="phone"><b>Phone</b></label>
